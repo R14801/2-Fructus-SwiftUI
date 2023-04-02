@@ -1,4 +1,4 @@
-# 2-Fructus-SwiftUI
+# 2. Fructus (SwiftUI)
 A UI Showcase app that displays information on Fruits, created using SwiftUI
 
 Notable Skills: OnBoarding Pages Creation, SwiftUI Skills
